@@ -2,7 +2,7 @@
 
 I am an aspiring developer, currently located in York, UK.
 
-I'm always looking to use technologies to find solutions for problems in as innovative a way as I can manage.
+I'm always looking to use technologies to find solutions for problems as innovatively as I can manage.
 
 🔭 I’m currently working on building up some repos for my portfolio. I've been working with Ruby recently, and I've built:
 
