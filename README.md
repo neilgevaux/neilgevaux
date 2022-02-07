@@ -6,7 +6,7 @@ I'm always looking to use technologies to find solutions for problems as innovat
 
 🔭 I’m currently working on building up some repos for my portfolio. I've been working with Ruby recently, and I've been finding some pretty cool applications for problems I, or people I work with, are coming across. Lately I've been loving Rails, and how quickly you can scaffold projects and get databases up and running. I've built:
 
-- An app to collect and display all the nice things people say about you. This came after a chat with my line manager, who stressed the importance of looking at positive feedback. I thought it would be cool to have an app in which you could collect this. I saw how pwerful Devise is as a user management tool.
+- An app to collect and display all the nice things people say about you. This came after a chat with my line manager, who stressed the importance of looking at positive feedback. I thought it would be cool to have an app in which you could collect this. I saw how powerful Devise is as a user management tool.
 - An app to collect anonymous feedback from nursery customers, and display it in a list in an admin panel for management to process. This built from the previous idea, and came from a conversation with my wife, who is a nursery manager and is always looking for improvements to service.
 - An app called "Taskbuckets" that aims to help with productivity—mainly the ability to prioritse tasks based on urgency and importance. I attended a time management webinar, and there seemed to be a niche for a simple app that you could configure to take care of urgent tasks and leave the less important ones for later.
 
