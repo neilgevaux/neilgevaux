@@ -1,6 +1,6 @@
 ### Hi there, I'm Neil 👋
 
-I am an aspiring developer, currently located in York, UK.
+I'm a web application developer, currently located in York, UK. I work at the University of York, in the Faculty Dev Team.
 
 I'm always looking to use technologies to find solutions for problems as innovatively as I can manage.
 
